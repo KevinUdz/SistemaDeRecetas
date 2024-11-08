@@ -4,4 +4,4 @@ Mi proyecto se basa en un programa en el cual puedes conseguir recetas ya sea qu
 
 ## Funcionalidad
 
-Brindar recetas accesibles al usuario ya que van desde faciles hasta 
+Brindar recetas accesibles a los usuarios la cual permite buscar multiples opciones segun los ingredientes que la persona tenga, este programa filtra por preferencia alimenticia y alergias para asi evitar algun accidente, asimismo clasifica las recetas por dificultad y tiempo de preparación. Ofrece sugerencias personalizadas, instrucciones a detalle.
