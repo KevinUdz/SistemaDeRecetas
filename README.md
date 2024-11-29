@@ -8,5 +8,6 @@ Mi proyecto se basa en un programa en el cual puedes conseguir recetas ya sea qu
 Brindar recetas accesibles a los usuarios la cual permite buscar multiples opciones segun los ingredientes que la persona tenga, este programa filtra por preferencia alimenticia, asimismo clasifica las recetas por tiempo de preparación lo que facilita al usuario a escoger algo que el pueda hacer.
 
 ## UML
-![Imagen de WhatsApp 2024-11-22 a las 12 28 47_d081b51d](https://github.com/user-attachments/assets/48c5a20f-4768-4c41-b2d4-7688db90ee04)
+
+[Ejemplo de diagrama de posesión de cuenta.pdf](https://github.com/user-attachments/files/17955070/Ejemplo.de.diagrama.de.posesion.de.cuenta.pdf)
 
